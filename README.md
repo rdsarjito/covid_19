@@ -58,11 +58,13 @@ Aplikasi ini menampilkan ringkasan data COVID-19 (terkonfirmasi, sembuh, kematia
 - Komponen web ringan (tanpa framework besar)
 
 ## Tech Stack
-- **JavaScript** (Vanilla, ES5+)
-- **Web Components** (Custom Elements)
-- **Webpack 4** + **webpack-dev-server**
-- **CSS** plain
-- Sumber data: **disease.sh COVID-19 API**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&color=555" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web%20Components-Custom%20Elements-29ABE2?logo=webcomponentsdotorg&logoColor=fff&labelColor=29ABE2&color=555" alt="Web Components" />
+  <img src="https://img.shields.io/badge/Webpack-4-8DD6F9?logo=webpack&logoColor=fff&labelColor=8DD6F9&color=555" alt="Webpack" />
+  <img src="https://img.shields.io/badge/CSS-plain-1572B6?logo=css3&logoColor=fff&labelColor=1572B6&color=555" alt="CSS" />
+  <img src="https://img.shields.io/badge/API-disease.sh-0d9488?logo=cloudflare&logoColor=fff&labelColor=0d9488&color=555" alt="API disease.sh" />
+</p>
 
 ## Instalasi
 
